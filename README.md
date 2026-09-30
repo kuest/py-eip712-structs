@@ -1,4 +1,4 @@
-# EIP-712 Structs [![PyPI](https://img.shields.io/pypi/v/kuest-py-eip712-structs.svg)](https://pypi.org/project/kuest-py-eip712-structs/) [![Python](https://img.shields.io/pypi/pyversions/kuest-py-eip712-structs.svg)](https://pypi.org/project/kuest-py-eip712-structs/) [![License](https://img.shields.io/github/license/kuestcom/py-eip712-structs.svg)](https://github.com/kuestcom/py-eip712-structs/blob/main/LICENSE)
+# EIP-712 Structs [![PyPI](https://img.shields.io/pypi/v/kuest-py-eip712-structs.svg)](https://pypi.org/project/kuest-py-eip712-structs/) [![Python](https://img.shields.io/pypi/pyversions/kuest-py-eip712-structs.svg)](https://pypi.org/project/kuest-py-eip712-structs/) [![License](https://img.shields.io/github/license/kuest/py-eip712-structs.svg)](https://github.com/kuest/py-eip712-structs/blob/main/LICENSE)
 
 A python interface for simple EIP-712 struct construction.
 
